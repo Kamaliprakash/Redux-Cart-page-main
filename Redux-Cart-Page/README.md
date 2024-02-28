@@ -1,1 +1,1 @@
-React Cart card using Redux
+React Cart card using Redux.
